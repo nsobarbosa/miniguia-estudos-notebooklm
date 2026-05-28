@@ -50,7 +50,13 @@ Divisão de Tarefa: divide problemas complexos em partes menores
 
 
 Glossário
-TermoDefiniçãoPromptInstrução dada ao modelo de IATokenUnidade básica de texto processada pelo modeloAlucinaçãoResposta incorreta gerada com aparente confiançaJanela de contextoLimite de tokens que o modelo processa por vezFew-shotTécnica que usa exemplos no promptZero-shotTécnica sem exemplos, só com instruçãoChain of ThoughtRaciocínio passo a passo induzido pelo prompt
+Prompt: Instrução dada ao modelo de IA.
+Token: Unidade básica de texto processada pelo modelo.
+Alucinação: Resposta incorreta gerada com aparente confiança.
+Janela de contexto: Limite de tokens que o modelo processa por vez.
+Few-shot: Técnica que usa exemplos no prompt.
+Zero-shot: Técnica sem exemplos, só com instrução.
+Chain of Thought: Raciocínio passo a passo induzido pelo prompt.
 
 Prompts Reutilizáveis
 1. "Explique [conceito] para [público], usando linguagem simples e exemplos práticos."
